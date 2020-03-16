@@ -38,8 +38,8 @@ export default () => (
           text-align: left;
         `}
       >
-        I am Vivek Sharma and I am a Fourth year computer science student and
-        the University of Victoria in Canada. My website address is
+        I am Vivek Sharma and I am a fourth year computer science student at the
+        University of Victoria in Canada. My website address is
         https://viveksharma.dev.
       </p>
       <h2
